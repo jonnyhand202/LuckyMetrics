@@ -80,4 +80,4 @@ Contributions are what make the open-source community such an amazing place to l
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 👤 Author
-İslam - Lead Developer
+Duran BİLEN - Lead Developer
